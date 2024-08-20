@@ -1,3 +1,6 @@
+#A.Goktug
+#20/08/2024
+#File Resizer
 	.text
 	.section	.rodata
 .LC0:
